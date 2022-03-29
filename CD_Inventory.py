@@ -4,7 +4,7 @@
 # Change Log: (Who, When, What)
 # DBiesinger, 2030-Jan-01, Created File
 # DBiesinger, 2030-Jan-02, Extended functionality to add tracks
-# Bill McGinty, 2022-Mar-28, Added functionality for LAB09A (Assignment09)
+# Bill McG..., 2022-Mar-28, Added functionality for LAB09A (Assignment09)
 #------------------------------------------#
 
 import ProcessingClasses as PC
